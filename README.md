@@ -13,7 +13,7 @@
 1. Clona este repositorio:
 
 git clone https://github.com/NicolasNevaL/Proyecto-Bootcamp-Talentotech.git
-cd sp500-analysis
+
 
 2. Instala las dependencias necesarias:
 pip install -r requirements.txt
