@@ -12,7 +12,7 @@
 ## Instrucciones de Instalación y Uso
 1. Clona este repositorio:
 
-git clone https://github.com/tuusuario/sp500-analysis](https://github.com/NicolasNevaL/Proyecto-Bootcamp-Talentotech.git
+git clone https://github.com/NicolasNevaL/Proyecto-Bootcamp-Talentotech.git
 cd sp500-analysis
 
 2. Instala las dependencias necesarias:
